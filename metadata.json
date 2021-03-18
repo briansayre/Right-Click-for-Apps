@@ -1,5 +1,5 @@
 {
-  "description": "Allows you to right click the Activities button to reveal to application menu.",
+  "description": "Allows you to right-click the Activities button to reveal the application menu.",
   "name": "Right Click for Apps",
   "shell-version": [
     "3.38"
